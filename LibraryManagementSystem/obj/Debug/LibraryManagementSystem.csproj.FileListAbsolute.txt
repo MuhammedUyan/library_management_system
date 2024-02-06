@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminEkrani.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Giris.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminGiris.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.KitapEkleSil.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UyeEkleSil.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UyeGiris.resources
+C:\Users\User\Source\Repos\Library_management_system_2\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UyeEkrani.resources
